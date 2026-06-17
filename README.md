@@ -15,9 +15,10 @@ Over Summer 2026, I plan to be working on a few different projects:
   4. (Potentially) working on a solo game project or application depending on my free time (which is already a bit low :/ ).
 
 ## Job Experience
+Jun 2026 - Present | Web Intern: Maryland State Archives
 Jan 2026 - Present | Web Designer -> Webmaster: echoes   
 Aug 2025 - May 2026 | Teaching Assistant: RIT   
-Oct 2024 - Present | Animator: osu!   
+Oct 2024 - (whenever I have time) | Animator: osu!   
 
 ## How To Reach Me 📫
 You can reach me by e-mail at [zach@binarie.dev](mailto:zach@binarie.dev) or on Discord @binarie. You can also find my LinkedIn on my website!
