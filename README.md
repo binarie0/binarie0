@@ -9,13 +9,13 @@ At any point in time, I'm most likely working on a video for the osu! design tea
 
 ## Plans for Summer 🌇
 Over Summer 2026, I plan to be working on a few different projects:
-  1. Secret metroidvania in Godot
+  1. Secret metroidvania in Godot ✔️
      - I worked on this for two weeks before my internship, and I worked a lot on inventory, room management, hitbox and hurtbox systems, as well as documentation!
-  2. Plant material study
+  2. Plant material study ✖️
      - Sadly I haven't started on this, but I have another project in the works now on a similar vain.
-  3. Working as a web developer intern for state government!
+  3. Working as a web developer intern for state government! ✔️
      - I have been using jQuery and developed an in-house component system using Shared Web Workers to more efficiently instantiate components.
-  4. Working on a solo game project or application depending on my free time.
+  4. Working on a solo game project or application depending on my free time. ✔️✔️✔️
      - While working on the metroidvania, I worked on a Markdown Editor and Previewer for Godot! You can [check it out here!](https://github.com/binarie0/godot-md)
 
 ## Job Experience
