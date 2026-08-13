@@ -19,7 +19,7 @@ Over Summer 2026, I plan to be working on a few different projects:
      - While working on the metroidvania, I worked on a Markdown Editor and Previewer for Godot! You can [check it out here!](https://github.com/binarie0/godot-md)
 
 ## Job Experience
-Jun 2026 - Present | Web Intern: Maryland State Archives
+Jun 2026 - Present | Web Intern: Maryland State Archives      
 Jan 2026 - Present | Web Designer -> Webmaster: echoes   
 Aug 2025 - May 2026 | Teaching Assistant: RIT   
 Oct 2024 - (whenever I have time) | Animator: osu!   
